@@ -1,2 +1,3 @@
 # tecnico2
-Practice git
+Practice git (Curso Tecnico Odoo v 11.0)
+
